@@ -6,5 +6,6 @@
     </head>
     <body>
         <?php include "navbar.php"?>
+        <p>hello</p>
     </body>
 </html>
