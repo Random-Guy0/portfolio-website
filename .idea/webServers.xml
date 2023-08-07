@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="89b39834-7620-429e-ac09-425b5ebb74fa" name="Amren test server" url="https://test.amrengill.id.au">
+        <fileTransfer mountedRoot="Y:\amrengill.id.au\test" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
